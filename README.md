@@ -1,6 +1,6 @@
 <img width="436" alt="image" src="https://github.com/user-attachments/assets/3923a466-ff46-4268-bc47-37dc8f7a87c7">
 
-Distribution Patterns:¶
+Distribution Patterns:
 Iris-setosa: The sepal lengths of Iris-setosa primarily cluster around 5 to 6 cm. The highest frequency of sepal lengths is around 5.0 to 5.5 cm.
 
 Iris-versicolor: The sepal lengths of Iris-versicolor are more spread out compared to Iris-setosa, with a noticeable peak around 6 cm.
